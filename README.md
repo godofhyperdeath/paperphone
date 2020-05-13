@@ -14,7 +14,7 @@ Customisable “paper apps” like recipes, phrasebooks and notepads let you get
 
 We hope this little experiment can help you try a digital detox from technology and help you focus on the things that matter the most.
 
-Paper Phone is an experimental open source Android app which is available to try right now. All of the code is available on Github for people to play with and hopefully adapt and evolve! 
+Paper Phone is an experimental open source Android/iOS app which is available to try right now. All of the code is available on Github for people to play with and hopefully adapt and evolve! 
 
 Services:
 * [OpenWeather](https://openweathermap.org/api)
